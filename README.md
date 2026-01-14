@@ -17,15 +17,15 @@ This project analyzes camp data from 2024 to provide insights into:
 
 ### Analysis Scripts
 - `Camper Location Analysis.py` - Analyzes geographic distribution of campers
-- `Camper Retirements Analysis. py` - Examines patterns in camper departures and retirement
-- `Number of Campers-Sessions per Counselor All Time.py` - Evaluates counselor workload and performance
-- `Percentage of One Time Campers.py` - Calculates retention metrics for first-time campers
+- `Camper Retirements Analysis.py` - Examines patterns in camper departures and retirement
+- `Number of Campers-Sessions per Counselor All Time. py` - Evaluates counselor workload and performance
+- `Percentage of One Time Campers. py` - Calculates retention metrics for first-time campers
 - `Number of Sessions to Camper Retention Analysis.py` - Studies the relationship between session attendance and retention
 
 ## 📈 Visualizations
 
 ### Camper Location Analysis
-![Camper Location Analysis](Camper%20Location%20Analysis. png)
+![Camper Location Analysis](Camper%20Location%20Analysis.png)
 
 This visualization shows the geographic distribution of campers, helping identify primary catchment areas and potential markets for expansion.
 
@@ -34,10 +34,15 @@ This visualization shows the geographic distribution of campers, helping identif
 
 Analyzes patterns in when and why campers stop attending, providing insights into retention challenges and opportunities.
 
-### Counselor Performance Metrics
-![Number of Campers-Sessions per Counselor All Time](Number%20of%20Campers-Sessions%20per%20Counselor%20All%20Time.png)
+### Number of Campers per Leader
+![Number of Campers per Leader](Number%20of%20Campers%20per%20Leader.png)
 
-Tracks the number of campers and sessions handled by each counselor over time, useful for workload balancing and performance evaluation.
+Displays the distribution of campers across different leaders, helping identify workload balance and capacity planning needs.
+
+### Number of Sessions per Leader
+![Number of Sessions per Leader](Number%20of%20Sessions%20per%20Leader.png)
+
+Tracks the number of sessions led by each leader over time, useful for recognizing top performers and ensuring equitable distribution of responsibilities.
 
 ### First-Time Camper Retention
 ![Percentage of One Time Campers](Percentage%20of%20One%20Time%20Campers.png)

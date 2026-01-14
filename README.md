@@ -44,6 +44,11 @@ Displays the distribution of campers across different leaders, helping identify 
 
 Tracks the number of sessions led by each leader over time, useful for recognizing top performers and ensuring equitable distribution of responsibilities.
 
+### Number of Sessions to Camper Retention Analysis
+![Number of Sessions to Camper Retention Analysis](Number%20of%20Sessions%20to%20Camper%20Retention%20Analysis.png)
+
+Examines the correlation between the number of sessions attended and camper retention rates, identifying optimal engagement patterns for long-term participation.
+
 ### First-Time Camper Retention
 ![Percentage of One Time Campers](Percentage%20of%20One%20Time%20Campers.png)
 
@@ -82,14 +87,6 @@ The analyses in this repository help answer critical questions:
 - **Pandas** - Data manipulation and analysis
 - **Matplotlib** - Data visualization
 - **Excel** - Source data format
-
-## 📝 Future Improvements
-
-- Add interactive dashboards using Plotly or Dash
-- Implement predictive models for camper retention
-- Create automated reporting pipeline
-- Add time-series analysis for trend identification
-- Include demographic breakdowns by age group
 
 ## 👥 Contributors
 

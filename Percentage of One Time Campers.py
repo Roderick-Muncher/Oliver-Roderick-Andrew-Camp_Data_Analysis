@@ -77,4 +77,5 @@ for i in range(len(xlist)):
 plt.show() #Display Plot
 
 #Calculate total averages
+
 print(f'From 1990 to 2018, {(100 * totalonetime / totalalltime):.3f}% of campers were onetimers')

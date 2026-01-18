@@ -109,7 +109,6 @@ hexcodes = ['#0000AA', '#00BB00', '#001467', '#010101'] #Forest green, teal, cha
 colours = ['#FF0000', '#BBDD00', '#00CC00', '#0000EE']
 
 fig, ax = plt.subplots() 
-plt.figure(figsize=(20, 8))
 
 bars = []  
 for i in range(0, 4): 

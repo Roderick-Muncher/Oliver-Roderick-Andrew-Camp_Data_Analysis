@@ -115,6 +115,7 @@ for bar in bars:
 #Grab height of bar and put the corresponding value above the bar
 
 #Build the graph
+
 plt.xticks(fontsize=8, rotation=90)
 plt.xlabel("Leader Name")
 plt.ylabel("Number of Campers") #Axis titles
